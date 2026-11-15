@@ -29,9 +29,6 @@ Whether you’re a day trader executing high-frequency trades, a long-term inves
 
 [![Explore CoinStats](https://img.shields.io/badge/Explore-CoinStats-B45309?style=for-the-badge)](https://coinstats-advanced.github.io/.github/)
 
----
-
-![CoinStats Portfolio View](https://coinbureau.com/_next/image/?url=https%3A%2F%2Fimage.coinbureau.com%2Fstrapi%2Fimage_bdd631ef1d.png&w=2048&q=50)
 
 ---
 
